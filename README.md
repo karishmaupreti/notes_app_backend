@@ -9,4 +9,4 @@ Rich Text Formatting: Support for rich text editing enables users to format thei
 
 Responsive Design: The application is designed to be responsive, ensuring a consistent experience across various devices and screen sizes.
 
-Visit : https://noteapp-frontend-qs1ukqk8z-karishma-upretis-projects.vercel.app
+Visit : https://noteapp-murex-two.vercel.app/
